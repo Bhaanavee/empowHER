@@ -156,9 +156,9 @@ Experience **EmpowHER** firsthand:
 
 For developers looking to dive into the code, here are the separate repositories:
 
-- **Chatbot Repository**: [Chatbot GitHub Repo](https://github.com/Aisha-Fathima/ai-women-health-assisstant)  
-- **Chat Room Repository**: [Chat Room GitHub Repo](https://github.com/Aisha-Fathima/chat_room-main)
-- **Balance Tracker Repository** : [BalanceTtracker Github Repo](https://github.com/Aisha-Fathima/Balance_tracker-main)
+- **Chatbot Repository**: [Chatbot GitHub Repo](https://github.com/Bhaanavee/Womens_Health_Assistant_chatbot)  
+- **Chat Room Repository**: [Chat Room GitHub Repo](https://github.com/Bhaanavee/chat_app)
+- **Balance Tracker Repository** : [BalanceTtracker Github Repo](https://github.com/Bhaanavee/Balance_tracker)
 
 ---
 
@@ -169,7 +169,7 @@ Want to set up **EmpowHER** on your machine? It’s as simple as 1-2-3! 🚀
 ### Step 1: Clone the Repositories  
 Start by cloning the main website repo:
 ```bash
-git clone https://github.com/Aisha-Fathima/project-empowher-women-health-assisstant.git
+git clone https://github.com/Bhaanavee/empowHER.git
 ```
 
 ### Step 2: Install Dependencies  
@@ -200,7 +200,7 @@ We’d love to have more women in tech contribute to **EmpowHER**! 💻
 ## 💬 **Contact Us**
 
 Have any questions, or suggestions, or just want to chat? Feel free to reach out:  
-📧 **Email**: [Mail us ](mailto:aishafathimamohammed@gmail.com)
+📧 **Email**: [Mail us ](mailto:bhanavee123@gmail.com)
 
 Let’s work together to make the world a better place for women everywhere! 🌟
 
