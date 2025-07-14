@@ -175,7 +175,7 @@ git clone https://github.com/Bhaanavee/empowHER.git
 ### Step 2: Install Dependencies  
 Navigate into the project directory and install the required packages:
 ```bash
-cd project-empowher-women-health-assisstant
+cd empowher
 npm install
 ```
 
