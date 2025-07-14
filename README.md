@@ -158,7 +158,7 @@ For developers looking to dive into the code, here are the separate repositories
 
 - **Chatbot Repository**: [Chatbot GitHub Repo](https://github.com/Bhaanavee/Womens_Health_Assistant_chatbot)  
 - **Chat Room Repository**: [Chat Room GitHub Repo](https://github.com/Bhaanavee/chat_app)
-- **Balance Tracker Repository** : [BalanceTtracker Github Repo](https://github.com/Bhaanavee/Balance_tracker)
+- **Balance Tracker Repository** : [BalanceTracker Github Repo](https://github.com/Bhaanavee/Balance_tracker)
 
 ---
 
