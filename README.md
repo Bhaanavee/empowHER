@@ -6,7 +6,7 @@ Welcome to **EmpowHER**, a one-stop platform designed for women, by women. We ar
 
 Try the website with the link below:
 
-[EmpowHER Website](https://project-empowher-women-health-assisstant.vercel.app/)
+[EmpowHER Website](https://empow-her-seven.vercel.app/)
 
 
 ---
